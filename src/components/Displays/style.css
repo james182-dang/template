@@ -1,0 +1,12 @@
+.displays {
+    margin: 3rem;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    animation: fadeIn;
+    animation-duration: 2.25s;
+}
+
+.displays h1 {
+    margin-bottom: 3rem;
+}

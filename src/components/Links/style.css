@@ -1,0 +1,9 @@
+.links {
+    display: flex;
+    flex-direction: column;
+    animation: fadeIn;
+    animation-duration: 2.25s;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}

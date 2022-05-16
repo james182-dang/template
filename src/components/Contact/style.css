@@ -1,0 +1,17 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    animation: fadeIn;
+    animation-duration: 2.25s;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactContent {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.contactContent h5 {
+    text-decoration: none;
+}
